@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/kev/Documents/Cenfotec/Python Para el Análisis de Datos/Laboratorios/Laboratorio1/venv/bin/python3.10" "$0" "$@"
+'''exec' "/Users/kev/Documents/Cenfotec/Python Para el Análisis de Datos/Laboratorios/Laboratorio1/venv/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
